@@ -1,0 +1,1 @@
+Nessa atividade veio de um desafio de bootcamp da Digital Innovation One (DIO), onde se foi pedido para escreve de nova forma ou resolver problemas no mesmo, tentei ao maximo fazer o que se foi pedido, mesmo não estando familiarizado com a linguagem em questão.
